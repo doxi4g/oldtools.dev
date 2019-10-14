@@ -1,4 +1,4 @@
-project("test")
+project("test 1")
 
 CollectSourceFiles(
  ${CMAKE_CURRENT_SOURCE_DIR} 

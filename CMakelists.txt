@@ -1,4 +1,4 @@
-cmake_minimum_required(VERSION 3.15) #Minimal Version CMake
+cmake_minimum_required(VERSION 3.16) #Minimal Version CMake
 project(Alpha) #Project Name
 
 set(CMAKE_RUNTIME_OUTPUT_DIRECTORY "${CMAKE_SOURCE_DIR}/bin")
